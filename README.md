@@ -26,10 +26,9 @@ SO THAT I can manage my time effectively
 ---
 * You're using a daily planner to create a schedule. 
 * You need to open the planner. The current day is displayed at the top of the calendar. 
-* You're presenting with timeblocks for standard business hours. 
 * You're viewing the timeblocks for that day and each timeblock is color coded to indicate whether it is in the past, present, or future. 
 * You need to click into a timeblock and enter the event you click the save button for that timeblock. The text for that event is saved in local storage. 
-* You need to refresh the page and the saved events persist.
+* You need to refresh the page and the saved events should be still in the block.
 ```
 ### Submission
 ---
