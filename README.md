@@ -31,7 +31,6 @@ SO THAT I can manage my time effectively
 * You need to refresh the page and the saved events should be still in the block.
 ```
 ### Submission
----
 
 Github Repo URL: https://github.com/oshintonmoy/day-planner.git
 
