@@ -23,7 +23,7 @@ SO THAT I can manage my time effectively
 ```    
 
 ### How to Use
----
+```
 * You're using a daily planner to create a schedule. 
 * You need to open the planner. The current day is displayed at the top of the calendar. 
 * You're viewing the timeblocks for that day and each timeblock is color coded to indicate whether it is in the past, present, or future. 
@@ -31,7 +31,7 @@ SO THAT I can manage my time effectively
 * You need to refresh the page and the saved events should be still in the block.
 ```
 ### Submission
-
+---
 Github Repo URL: https://github.com/oshintonmoy/day-planner.git
 
 
