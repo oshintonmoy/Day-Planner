@@ -39,4 +39,4 @@ Github Repo URL: https://github.com/oshintonmoy/day-planner.git
 Deployed URL: https://oshintonmoy.github.io/day-planner/
 
 ### Home Page
-(./assets/img/dayPlanner-demo.png)
+![Imgur](https://i.imgur.com/TrD2Zc2.png)
